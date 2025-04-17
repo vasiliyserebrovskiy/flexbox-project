@@ -196,6 +196,7 @@ a:hover {
 .btn-cart {
   border: none;
   background-color: white;
+  width: 30px;
 }
 
 .stickyBar-comboContainer {
