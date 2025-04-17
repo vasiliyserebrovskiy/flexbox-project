@@ -62,12 +62,12 @@ header {
   position: relative;
   box-sizing: border-box;
   z-index: 10; */
-  padding-top: 36px;
+  padding-top: 70px;
   background-color: white;
   position: fixed;
   width: 100%;
   display: flex;
-  justify-content: center;
+  justify-content: space-around;
   align-items: center;
   flex-wrap: wrap;
   z-index: 1000;
